@@ -52,8 +52,8 @@ That's it. Should take about 5 minutes to run everything.
 
 | Model | Precision | Recall | False Positives |
 |-------|-----------|--------|-----------------|
-| Logistic Regression | 6% | 92% | 1,458 😬 |
-| Random Forest | 42% | 85% | 115 ✅ |
+| Logistic Regression | 6% | 92% | 1,458  |
+| Random Forest | 42% | 85% | 115  |
 
 Random Forest is the clear winner it catches most fraud without overwhelming you with false alarms.
 
